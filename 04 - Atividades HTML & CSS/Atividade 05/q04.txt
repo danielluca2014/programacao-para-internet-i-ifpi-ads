@@ -1,0 +1,2 @@
+A propriedade textContent retorna somente o texto que está dentro de um elemento, sem incluir as tags HTML;
+A propriedade innerHTML retorna tanto o texto quanto as tags HTML dentro de um elemento.

@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  background-image: url('matrix-code.jpg');
+  background-size: cover;
+}
+
+h1, p {
+  color: white;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+
+h1 {
+  font-family: arial;
+  font-style: italic;
+  text-shadow:green 1px -1px, green -1px 1px, green 1px 1px, green -1px -1px;
+  width: 88%;
+}
+
+p {
+  font-family: verdana;
+  text-align: justify;
+  text-shadow:green 1px -1px, green -1px 1px, green 1px 1px, green -1px -1px;
+  width: 88%;
+  line-height: 1.2;
+}
+
+.direita {
+  text-align: right;
+}
